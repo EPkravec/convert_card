@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # encoding: utf-8
 '''
-скриптик для замены  местами 4 байтов значения карты клиента 
+скриптик для замены  местами 4 байтов значения карты клиента
 '''
 from __future__ import absolute_import, division, print_function, unicode_literals
 
