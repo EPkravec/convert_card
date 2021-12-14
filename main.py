@@ -8,7 +8,7 @@ from __future__ import absolute_import, division, print_function, unicode_litera
 import csv
 
 card_list = []
-with open('Order_FCT_44320_Apa_Rura_Batches_3_FCT_51978не_прописанные.csv') as f:
+with open('Order_FCT-61336 Apa Pure_Batches_1(1).csv') as f:
     card_read_file = csv.reader(f)
     for card_number in card_read_file:
         card_list.append(card_number)
